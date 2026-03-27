@@ -1,0 +1,42 @@
+.Card-container{
+    display: grid;
+    justify-content: center;
+    align-items: center;
+}
+
+.card{
+    width: 40vw;
+    height: 45vh;
+    border: 2px solid black;
+    border-radius: 10px;
+    margin: 30px;
+    padding: 5px;
+    background-color: white;
+    box-shadow: -3px 0px  blue;
+    text-align: center;
+    
+}
+
+#id{
+    border: 2px solid black;
+    border-radius: 10px;
+    height: 40px;
+    width: 100px;
+    margin: 5px;
+    padding: 2px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(6, 237, 52);
+}
+.el{
+    display: flex;
+    justify-content: space-between;
+    margin: 10px;
+    margin-bottom: 30px;
+}
+
+#title{
+    margin: 10px;
+    margin-bottom: 70px;
+}
