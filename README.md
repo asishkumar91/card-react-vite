@@ -27,7 +27,7 @@ A simple and interactive React application built using Vite that fetches data fr
 ---
 
 Live link:
-👍 https://asishkumar91.github.io/todo-react-vite/
+👍 https://asishkumar91.github.io/card-react-vite/
 
 ## 📦 Installation
 
